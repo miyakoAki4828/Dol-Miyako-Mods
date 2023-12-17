@@ -9,6 +9,9 @@
 感谢北极星老师的衣物美化自动打包。github仓库：https://github.com/cphxj123/Dol-BJX-Mods/
 根据惠特尼跟宠文件学习了特写位置和README写法，感谢 一个范例° 老师。
 感谢冬季恋歌老师，用您的整合包很方便测试。
+谢谢狐千月老师帮忙指出问题。
+谢谢JeremieLyoko的帮助，您给了我继续改进的动力。
+谢谢所有测试返图的朋友，以及反馈问题的朋友。
 
 支持二改、二传、整合。不需要注明作者。
 如果碰到问题，请在github搜索“miyakoAki4828”在对应仓库发issue或在dol吧搜索“wombs特写”提问。
@@ -40,6 +43,12 @@ Learned about close-up positions and README writing from the Whitney companion f
 thank you, 一个范例° .
 
 Thanks to Winter Love Song; it is convenient to test with your integrated package.
+
+Thanks to lune for helping to point out the issues.
+
+Thanks to JeremieLyoko for the assistance; your help has given me the motivation to continue improving.
+
+Thanks to all friends who provided feedback and testing screenshots, as well as those who reported issues.
 
 Supports modifications, redistributions, and integrations. No need to mention the author.
 

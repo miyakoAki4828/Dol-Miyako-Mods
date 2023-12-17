@@ -4,10 +4,21 @@
 请使用JML直接加载“wombs特写.zip”。
 *不需要解压*
 
+!!!特别注意!!!
+如果你想和BeautySelector以及BokiDoki同时使用，请加载BS特供版本。
+使用原版人模：加载“BS特供wombs特写原版(1-3共3)”
+使用BEE人模：加载“BS特供wombs特写BEE版(2-3共3)”
+使用Prail人模：加载“BS特供wombs特写Prail版(3-3共3)”
+切换人模时，需要手动更改对应的包体，否则图片将无法加载。
+请不要同时加载三个BS特供版本，那样《你的商店页面会出现三个子宫》。
+
 谢谢Mamon喵帮忙改代码。
 感谢北极星老师的衣物美化自动打包。github仓库：https://github.com/cphxj123/Dol-BJX-Mods/
 根据惠特尼跟宠文件学习了特写位置和README写法，感谢 一个范例° 老师。
 感谢冬季恋歌老师，用您的整合包很方便测试。
+谢谢狐千月老师帮忙指出问题。
+谢谢JeremieLyoko的帮助，您给了我继续改进的动力。
+谢谢所有测试返图的朋友，以及反馈问题的朋友。
 
 支持二改、二传、整合。不需要注明作者。
 如果碰到问题，请在github搜索“miyakoAki4828”在对应仓库发issue或在dol吧搜索“wombs特写”提问。
@@ -24,6 +35,14 @@ Other scenarios have not been tested yet, and feedback with images is welcome.
 Please use JML to directly load the "wombs特写.zip" file.
 *No need to unzip.*
 
+!!! Special Note !!!
+If you want to use BeautySelector and BokiDoki at the same time, please load the BS特供 version.
+For use with the original character model: load "BS特供wombs特写原版(1-3共3)"
+For use with the BEE character model: load "BS特供wombs特写BEE版(2-3共3)"
+For use with the Prail character model: load "BS特供wombs特写Prail版(3-3共3)"
+When switching character models, you need to manually change the corresponding package, otherwise, the images will not load.
+Please do not load all three BS特供 versions simultaneously, as it will result in "THREE WOMBS" on your store page.
+
 If you still have confusion, refer to the "代码添加示意图.png"
 
 Thanks to Mamon Meow for helping with code modification.
@@ -35,6 +54,12 @@ Learned about close-up positions and README writing from the Whitney companion f
 thank you, 一个范例° .
 
 Thanks to Winter Love Song; it is convenient to test with your integrated package.
+
+Thanks to lune for helping to point out the issues.
+
+Thanks to JeremieLyoko for the assistance; your help has given me the motivation to continue improving.
+
+Thanks to all friends who provided feedback and testing screenshots, as well as those who reported issues.
 
 Supports modifications, redistributions, and integrations. No need to mention the author.
 
