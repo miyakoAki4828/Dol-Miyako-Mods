@@ -47,7 +47,7 @@
 
 ### 遇到问题
 
-如果碰到问题，请在github搜索“miyakoAki4828”在对应仓库发issue或在dol吧搜索“wombs特写”提问。
+如果碰到问题，请在github搜索“miyakoAki4828”在对应仓库发issue或在dol吧搜索“云宝跟宠”提问。
 
 本美化所在的github仓库：[miyakoAki4828/Dol-Miyako-Mods (github.com)](https://github.com/miyakoAki4828/Dol-Miyako-Mods) 
 
