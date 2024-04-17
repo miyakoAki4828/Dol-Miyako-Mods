@@ -1,4 +1,4 @@
-# 写在前面
+# 下载请看release
 
 谢谢你使用我的美化。
 
@@ -6,11 +6,29 @@
 
 包含wombs特写与MLPRainbow跟宠两个美化，均支持修改代码与JML加载。
 
-### 使用方式
+#### 使用方式
 
 详细使用方式请根据你想加载的美化，查看 `wombs特写 `文件夹下或 `MLPRainbow跟宠` 文件夹下的README.md。
 
 如果你没有阅读markdown的经验，可以阅读 `png文件+代码(需自行修改html)` 文件夹下或 `美化mod(支持JML加载)` 文件夹下的README.txt。
+
+### 功能模组
+
+#### LowerSkyBox
+
+降低左侧天气图层
+
+#### background&foregroundtemplate
+
+前置 [decorations_zh](https://discord.com/channels/675158131688603721/1192064647411535925/1204964211772620840) 或 [decorations](https://discord.com/channels/675158131688603721/1197751059767119882/1197751809255669871) ，需要自己替换图片。
+
+#### ReOverfits
+
+Overfits更新版，已取得原作者授权。降低天气图层+开启外套槽与头套槽，不兼容LowerSkyBox。
+
+#### 使用方式
+
+需要modloader加载，加载方式请参考[汉化仓库说明](https://github.com/Eltirosto/Degrees-of-Lewdity-Chinese-Localization/blob/main/README.md)。
 
 ### 授权情况
 
@@ -22,7 +40,21 @@
 
 支持二传、整合。不支持二改。转载请注明作者为“miyako4828”。
 
+#### LowerSkyBox
+
+支持二改、二传、整合。不需要注明作者。
+
+#### background&foregroundtemplate
+
+支持二改、二传、整合。不需要注明作者。
+
+#### ReOverfits
+
+与Overfits授权情况相同。请勿二传。
+
 ### 致谢
+
+感谢Mamon喵与猫猫教传教士的授权。
 
 谢谢Mamon喵帮忙改代码。
 
