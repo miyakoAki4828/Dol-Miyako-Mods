@@ -1,0 +1,46 @@
+{
+    "name": "LowerSkyBox",
+    "version": "1.0.0",
+    "styleFileList": [
+        "modules/LowerSkyBox.css"
+    ],
+    "scriptFileList": [],
+    "tweeFileList": [],
+    "additionFile": [],
+    "imgFileList": [], 
+    "addonPlugin": [
+        {
+            "modName": "ModuleCssReplacer",
+            "addonName": "ModuleCssReplacerAddon",
+            "modVersion": "^1.0.0",
+            "params": [
+              {
+                "cssName": "skybox",
+                "findString": "#location {\n\tposition: fixed;\n\tleft: 0;\n\tz-index: 10;\n\tuser-select: none;\n}",
+                "replace": "#location {\n\tposition: fixed;\n\tleft: 0;\n\tz-index: -9;\n\tuser-select: none;\n}"
+              },
+              {
+                "cssName": "skybox",
+                "findString": "z-index: 9",
+                "replace": "z-index: -10"
+              }
+            ]
+        },
+        {
+            "modName": "ModLoader DoL ImageLoaderHook",
+            "addonName": "ImageLoaderAddon",
+            "modVersion": "^2.3.0",
+            "params": []
+        }
+    ],
+    "dependenceInfo": [
+      {
+        "modName": "ModLoader DoL ImageLoaderHook",
+        "version": "^2.3.0"
+      },
+      {
+        "modName": "ModuleCssReplacer",
+        "version": "^1.0.0"
+      }
+    ]
+  }
